@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SurasakDiskul
 - 👀 I’m interested in Coding and Develop Website or Program
-- 🌱 I’m currently learning JS and Python
+- 🌱 I’m currently learning Laravel and React.JS
 - 📫 How to reach me
        Puksurasak001@gmail.com
        +66 099-212-4646
